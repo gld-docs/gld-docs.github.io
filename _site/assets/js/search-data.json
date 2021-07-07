@@ -1,0 +1,122 @@
+{"0": {
+    "doc": "Contact",
+    "title": "Contact",
+    "content": "## Any remaining questions? For anything else, contact the GLD Focal Point. ",
+    "url": "http://127.0.0.1:4000/blog/docs/contact/",
+    "relUrl": "/docs/contact/"
+  },"1": {
+    "doc": "Dynamic Checks",
+    "title": "Dynamic Checks",
+    "content": "# Dynamic Checks How to use them, how to read them. ",
+    "url": "http://127.0.0.1:4000/blog/docs/data_checks/dc_dynamic/",
+    "relUrl": "/docs/data_checks/dc_dynamic/"
+  },"2": {
+    "doc": "Data Checks",
+    "title": "Data Checks",
+    "content": "# Data checks overview Text ",
+    "url": "http://127.0.0.1:4000/blog/docs/data-checks",
+    "relUrl": "/docs/data-checks"
+  },"3": {
+    "doc": "Static Checks",
+    "title": "Static Checks",
+    "content": "# Static Checks How to use them, how to read them. ",
+    "url": "http://127.0.0.1:4000/blog/docs/data_checks/dc_static/",
+    "relUrl": "/docs/data_checks/dc_static/"
+  },"4": {
+    "doc": "Geography",
+    "title": "Geography",
+    "content": "# Geography {: .no_toc } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## Mapping and Description of Variables ## Lessons Learned ## Tabular Overview ",
+    "url": "http://127.0.0.1:4000/blog/docs/data_dictionary/dd_geography/",
+    "relUrl": "/docs/data_dictionary/dd_geography/"
+  },"5": {
+    "doc": "Data Dictionary",
+    "title": "Data Dictionary",
+    "content": "# Modular Approach Data dictionary is broken down into modules. It can be donwloaded (enter link) directly. Here we describe in detail the variables. {: .fs-6 .fw-300 } ",
+    "url": "http://127.0.0.1:4000/blog/docs/data-dictionary",
+    "relUrl": "/docs/data-dictionary"
+  },"6": {
+    "doc": "Labour - 12 month ref",
+    "title": "Labour - 12 month ref",
+    "content": "# Labor variables - 12 month reference period {: .no_toc } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## Mapping and Description of Variables ## Lessons Learned ## Tabular Overview ",
+    "url": "http://127.0.0.1:4000/blog/docs/data_dictionary/labour/labour-12month/",
+    "relUrl": "/docs/data_dictionary/labour/labour-12month/"
+  },"7": {
+    "doc": "Labour - 7 day ref",
+    "title": "Labour - 7 day ref",
+    "content": "# Labor variables - 7 day reference period {: .no_toc } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## Mapping and Description of Variables ## Lessons Learned ## Tabular Overview ",
+    "url": "http://127.0.0.1:4000/blog/docs/data_dictionary/labour/labour-7day/",
+    "relUrl": "/docs/data_dictionary/labour/labour-7day/"
+  },"8": {
+    "doc": "Labour Overview",
+    "title": "Labour Overview",
+    "content": "## Labour is the main beast What we are tackling here. ",
+    "url": "http://127.0.0.1:4000/blog/docs/data_dictionary/labour/dd_labor_index/",
+    "relUrl": "/docs/data_dictionary/labour/dd_labor_index/"
+  },"9": {
+    "doc": "Survey & ID",
+    "title": "Survey & ID",
+    "content": "# Survey & ID {: .no_toc } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## ID guidelines ## Mapping and Description of Variables ## Lessons Learned ## Tabular Overview ",
+    "url": "http://127.0.0.1:4000/blog/docs/data_dictionary/dd_survey_id/",
+    "relUrl": "/docs/data_dictionary/dd_survey_id/"
+  },"10": {
+    "doc": "Check harmonization",
+    "title": "Check harmonization",
+    "content": "## What to check ## How to check ",
+    "url": "http://127.0.0.1:4000/blog/docs/harmonization_process/hp_checks/",
+    "relUrl": "/docs/harmonization_process/hp_checks/"
+  },"11": {
+    "doc": "Document raw data",
+    "title": "Document raw data",
+    "content": "## What to document ## How to document ",
+    "url": "http://127.0.0.1:4000/blog/docs/harmonization_process/hp_document_raw/",
+    "relUrl": "/docs/harmonization_process/hp_document_raw/"
+  },"12": {
+    "doc": "Harmonize raw data",
+    "title": "Harmonize raw data",
+    "content": "## What to harmonize ## How to harmonize ",
+    "url": "http://127.0.0.1:4000/blog/docs/harmonization_process/hp_harmonize_raw/",
+    "relUrl": "/docs/harmonization_process/hp_harmonize_raw/"
+  },"13": {
+    "doc": "Harmonization Process",
+    "title": "Harmonization Process",
+    "content": "# Explanation of the process Here the process to follow. {: .fs-6 .fw-300 } ",
+    "url": "http://127.0.0.1:4000/blog/docs/harmonization-process",
+    "relUrl": "/docs/harmonization-process"
+  },"14": {
+    "doc": "Obtain raw data",
+    "title": "Obtain raw data",
+    "content": "## What to obtain ## How to obtain ",
+    "url": "http://127.0.0.1:4000/blog/docs/harmonization_process/hp_obtain_data/",
+    "relUrl": "/docs/harmonization_process/hp_obtain_data/"
+  },"15": {
+    "doc": "Publish harmonization",
+    "title": "Publish harmonization",
+    "content": "## What to publish ## How to publish ",
+    "url": "http://127.0.0.1:4000/blog/docs/harmonization_process/hp_publishing/",
+    "relUrl": "/docs/harmonization_process/hp_publishing/"
+  },"16": {
+    "doc": "Harmonization Template",
+    "title": "Harmonization Template",
+    "content": "## Harmonization Template What it is, where to find it, how to use. ",
+    "url": "http://127.0.0.1:4000/blog/docs/harmonization_template/ht_index/",
+    "relUrl": "/docs/harmonization_template/ht_index/"
+  },"17": {
+    "doc": "Introduction",
+    "title": "Introduction",
+    "content": "# Harmonizing labor data globally {: .fs-9 } The Global Labor Datase (GLD) aims to create an open-source harmonization project for all labor force survey. Here you may find a descrption of the project as well as all information to help you start harmonizing yourself - we would love to have you join! {: .fs-6 .fw-300 } [View it on GitHub](https://github.com/worldbank/gld/tree/main){: .btn .fs-5 .mb-4 .mb-md-0 } --- ## What is the GLD? ## What does the GLD do? ## Who is the GLD for? ## How can I contribute? ### Word of mouth ### Reviewing online harmonization ### Proposing new harmonization Showing how `things` look like. ```yaml This is computer code. Beep. Beep. (Robot beeps, not a car honking). ``` ",
+    "url": "http://127.0.0.1:4000/blog/",
+    "relUrl": "/"
+  },"18": {
+    "doc": "Make a Pull Request",
+    "title": "Make a Pull Request",
+    "content": "## What is it, how does it help For anything else, contact the GLD Focal Point. ",
+    "url": "http://127.0.0.1:4000/blog/docs/pull_request/pr_index/",
+    "relUrl": "/docs/pull_request/pr_index/"
+  },"19": {
+    "doc": "Raise an Issue",
+    "title": "Raise an Issue",
+    "content": "## What is it, how does it help? For anything else, contact the GLD Focal Point. ",
+    "url": "http://127.0.0.1:4000/blog/docs/raise_issue/ri_index/",
+    "relUrl": "/docs/raise_issue/ri_index/"
+  }
+}
